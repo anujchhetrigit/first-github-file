@@ -1,5 +1,5 @@
-#Learning git and github from youtube...
+# Learning git and github from youtube...
 
-##channel
+## channel
 chai aur code
 school4you
